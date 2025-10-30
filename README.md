@@ -1,9 +1,22 @@
-# 👋 Hey, I'm Akash Jatikart
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:0079ff&height=220&section=header&text=Akash%20Jatikart%20//%20Data%20Detective&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=twinkling" />
+</p>
 
-🎓 MCA Student | 💻 Full Stack & Data Science Enthusiast  
-🚀 Exploring AI, Agentic Systems, and Smart Dashboards  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Akash+Jatikart+👋;MCA+Student+|+Full+Stack+%26+AI+Enthusiast;I+build+intelligent+systems+that+blend+data+%26+design.)](https://git.io/typing-svg)
 
-> “I turn ideas into intelligent systems — where design meets data.”
+</div>
+
+---
+
+### 🎯 About Me
+- 🎓 MCA Student passionate about **AI, Agentic Systems, and Data-Driven Design**
+- 💡 I enjoy creating intelligent dashboards, productivity tools, and modern web systems  
+- 🧩 I believe every line of code should be **functional, meaningful, and aesthetic**
+
+📁 **Portfolio:** [akashjatikart.vercel.app](https://akashjatikart.vercel.app)  
+📄 **Resume:** [View Resume](https://your-resume-link.com)
 
 ---
 
@@ -15,6 +28,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
 ---
@@ -23,17 +37,17 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎯 [Smart Asset & Finance Dashboard](https://github.com/4ak45h/smart_finance_dashboard) | A chess-themed finance tracker blending data visualization and game aesthetics. | Flask, Tailwind, JS |
-| 🌾 [Farmer Crop Suggestion System](https://github.com/4ak45h/farmer-crop-suggestion) | AI-powered system recommending profitable crops based on soil, weather, and market data. | FastAPI, React, MongoDB |
-| 🧠 [Legacy Planner](https://github.com/4ak45h/legacy-planner) | AI-based productivity and memory system for tracking ideas, goals, and future plans intelligently. | Flask, OpenAI API, Python |
-| 👗 [Fashion Fusion](https://github.com/4ak45h/fashion-fusion) | Internship project — an e-commerce platform for fashion discovery and digital styling. | HTML, CSS, JS |
+| 🎯 [Smart Asset & Finance Dashboard](https://github.com/4ak45h/smart_finance_dashboard) | A chess-themed finance tracker blending **game design & financial analytics**. | Flask, Tailwind, JS |
+| 🌾 [Farmer Crop Suggestion System](https://github.com/4ak45h/farmer-crop-suggestion) | AI-driven platform that suggests profitable crops using **weather, soil & market data**. | FastAPI, React, MongoDB |
+| 🧠 [Legacy Planner](https://github.com/4ak45h/legacy-planner) | Intelligent personal planner for **goal tracking & memory recall**, powered by AI. | Flask, OpenAI API |
+| 👗 [Fashion Fusion](https://github.com/4ak45h/fashion-fusion) | Internship project — sleek **e-commerce experience** for clothing & style. | HTML, CSS, JS |
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ak45h&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ak45h&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,8 +57,8 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/4ak45h" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white" />
+  <a href="https://akashjatikart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
@@ -53,7 +67,11 @@
 
 ---
 
-### ✨ Current Focus
-- Building AI-powered dashboards that think and adapt.  
-- Exploring agentic systems and data automation.  
-- Designing human-like intelligence in simple, elegant interfaces.  
+### 💡 Fun — Terminal Demo
+
+```bash
+> whoami
+> Akash Jatikart
+> Role: Full Stack Developer & Data Scientist
+> Current Mission: Build AI systems that think before they act 🤖
+> Access Level: Authorized ✅
