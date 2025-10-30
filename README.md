@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Akash+Jatikart+👋;MCA+Student+|+Full+Stack+%26+AI+Enthusiast;I+build+intelligent+systems+that+blend+data+%26+design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Akash+Jatikart+👋;MCA+Student+|+Full+Stack+%26+AI+Enthusiast;I+build+intelligent+systems;that+blend+data+%26+design.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,8 +15,7 @@
 - 💡 I enjoy creating intelligent dashboards, productivity tools, and modern web systems  
 - 🧩 I believe every line of code should be **functional, meaningful, and aesthetic**
 
-📁 **Portfolio:** [akashjatikart.vercel.app](https://akashjatikart.vercel.app)  
-📄 **Resume:** [View Resume](https://your-resume-link.com)
+📁 **Portfolio:** [MY PORTFOLIO](https://4ak45h.github.io/akash_portfolio/)  
 
 ---
 
@@ -57,10 +56,10 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://akashjatikart.vercel.app" target="_blank">
+  <a href="https://4ak45h.github.io/akash_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:akashjatikart@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -70,7 +69,7 @@
 ### 💡 Fun — Terminal Demo
 
 ```bash
-> whoami
+> who am i?????
 > Akash Jatikart
 > Role: Full Stack Developer & Data Scientist
 > Current Mission: Build AI systems that think before they act 🤖
