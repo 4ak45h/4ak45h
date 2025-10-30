@@ -1,104 +1,98 @@
-## Hi there 👋
-
-<!-- 💀 Akash Jatikart | Cinematic GitHub Profile README -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=🕵️‍♂️+Akash+Jatikart;MCA+Student+|+AI+Enthusiast+|+Data+Detective;Exploring+the+logic+behind+every+pattern...">
-</h1>
+<!-- 🧠 Akash Jatikart | Hacker Terminal GitHub Profile -->
 
 <p align="center">
-  <em>“In the shadows of data and design, I build stories that think.”</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+System...;Loading+Profile+🧠+Akash+Jatikart;Status:+ACTIVE;Mission:+Decode+the+Patterns+of+AI;Access+Granted+✅">
 </p>
 
 ---
 
-### 🕶️ About Me
+🧩 SYSTEM BOOT LOG — ACCESS TERMINAL
 
-> 🎓 MCA Student  
-> 🧠 Aspiring **Data Scientist** & **AI Explorer**  
-> ⚡ Passionate about **creative intelligence**, **bold visuals**, and **logic-driven systems**
+    User: Akash Jatikart
+    Role: MCA Student | AI Enthusiast | Data Scientist in Training
+    Node: Earth // India Sector
+    Security Level: CLEARANCE GRANTED
+    Mission: Decode patterns. Automate logic. Design intelligence.
+    Status: ONLINE
 
-🧩 Blending art, data, and design — I turn abstract ideas into intelligent, story-driven experiences.  
-Currently decoding the secrets of **AI**, **Full Stack Development**, and **Machine Learning**.
 
 ---
 
-### 🧰 Arsenal
+### ⚙️ SYSTEM COMPONENTS
 
-#### ⚙️ Languages & Frameworks
+#### 🧠 Core Languages
 `Python` `Java` `JavaScript` `HTML` `CSS` `SQL`
 
-#### 🧠 Frameworks & Tech Stack
+#### 🧩 Frameworks & Tools
 `Flask` `FastAPI` `React` `Tailwind CSS` `SQLite` `MongoDB`
 
-#### 🔍 Data Science Tools
+#### 🔍 Data Intelligence Modules
 `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
 ---
 
-### 🎯 Current Missions
+### 🧠 CURRENT OPERATIONS
 
-| 🧩 Project | 🎬 Description |
-|-------------|----------------|
-| **Legacy Planner** 🧭 | AI-powered productivity system that predicts your next logical step |
-| **Smart Asset Dashboard: Chessboard of Wealth** ♟️ | Strategic finance tracker where every move is a chess piece |
-| **Farmer Crop Suggestion System** 🌾 | FastAPI + React system suggesting profitable crops using data |
-| **Fashion Fusion** 🧥 | Intelligent clothing platform merging AI with style |
-
----
-
-### 📊 GitHub Intel
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4ak45h&theme=tokyonight&hide_border=true" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ak45h&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
-</p>
+| OPERATION | STATUS | DESCRIPTION |
+|------------|:------:|--------------|
+| 🧭 **Legacy Planner** | 🔄 ACTIVE | AI-driven planner that predicts your next move |
+| ♟️ **Chessboard of Wealth** | 🟢 LIVE | Smart Asset & Finance Dashboard themed on chess strategy |
+| 🌾 **Crop Suggestion System** | 🧠 TRAINING | FastAPI + React project for AI-powered crop prediction |
+| 🧥 **Fashion Fusion** | ⚡ READY | Intelligent fashion platform merging AI & personalization |
 
 ---
 
-### ⚡ System Status
+### 🧾 SYSTEM ANALYTICS
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ak45h&bg_color=0d1117&color=38C2FF&line=38C2FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4ak45h&theme=chartreuse-dark&hide_border=true" height="165px">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ak45h&layout=compact&theme=chartreuse-dark&hide_border=true" height="140px">
 </p>
 
 ---
 
-### 🕸️ Connect With The Detective
-
+### 📈 NETWORK TRACE
 <p align="center">
-  <a href="https://github.com/4ak45h" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-4ak45h-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/akashjatikart" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Jatikart-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:akashjatikart@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akashjatikart%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ak45h&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### 🔗 CONNECTIONS
+<p align="center">
+  <a href="https://github.com/4ak45h" target="_blank"><img src="https://img.shields.io/badge/GitHub-4ak45h-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"></a>
+  <a href="https://www.linkedin.com/in/akashjatikart" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Jatikart-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:akashjatikart@gmail.com"><img src="https://img.shields.io/badge/Email-akashjatikart%40gmail.com-FF0000?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=The+code+runs...;but+the+mystery+remains.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=>+System+Secure;>+Mission+Active;>+Awaiting+Next+Command..._">
 </p>
 
+---
 
-<!--
-**4ak45h/4ak45h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    SYSTEM STATUS: RUNNING
+    UPTIME: ∞
+    LAST COMMAND: “Create. Learn. Evolve.”
+    NEXT OBJECTIVE: Master Data Science & AI Integration
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1&section=header&reversal=true"/>
+</p>
+
+<p align="center">
+  <b><em>“The code executes. The mystery continues.”</em></b>
+</p>
+
+---
+
+<!-- Terminal End -->
