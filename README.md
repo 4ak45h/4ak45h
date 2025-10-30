@@ -1,51 +1,92 @@
-💻 About Me: [Your Name/Nickname] 👋
-
-Hi there! I'm [Your Name/Nickname], a [Your Role/Title, e.g., passionate software developer, aspiring data scientist, creative full-stack engineer] based in [Your Location, e.g., the beautiful Pacific Northwest, sunny London].
-
-I love to [Your main passion or motivation, e.g., solve complex problems, build user-friendly experiences, analyze large datasets]. My current focus is on [Your current primary technology or area, e.g., refining my skills in React and Node.js, exploring the world of Machine Learning, contributing to open-source projects].
-
-🚀 Key Skills & Technologies
-
-Here are some of the technologies and tools I enjoy working with:
-Category	Tools & Technologies
-Languages	[e.g., Python, JavaScript, TypeScript, Java, C++]
-Frontend	[e.g., React, Vue.js, Angular, HTML5, CSS3, Tailwind CSS]
-Backend	[e.g., Node.js, Express, Django, Flask, Ruby on Rails]
-Databases	[e.g., PostgreSQL, MongoDB, MySQL, Redis]
-DevOps/Cloud	[e.g., Docker, Kubernetes, AWS, Azure, CI/CD]
-
-🌱 Currently Learning
-
-I believe in continuous learning! Right now, I'm diving into:
-
-    [New language, framework, or concept, e.g., Go (Golang) for high-performance systems.]
-
-    [A specific tool or library, e.g., Improving my workflow with Vim.]
-
-    [A project area, e.g., Serverless architecture with AWS Lambda.]
-
-💡 Projects I'm Proud Of
-
-Here are a few projects I've recently worked on or am actively maintaining. Check them out!
-
-    [Project Name 1]: A [Brief, one-sentence description of the project, e.g., full-stack e-commerce site built with MERN stack].
-
-        Technologies Used: [Tech Stack 1]
-
-    [Project Name 2]: [Another brief description, e.g., Python script for automating file backups to the cloud].
-
-        Technologies Used: [Tech Stack 2]
-
-📬 Get in Touch
-
-I'm always open to connecting with new people, collaborating on interesting projects, and discussing new ideas!
-
-    LinkedIn: [Your LinkedIn Profile URL]
-
-    Portfolio/Website: [Your Personal Website URL (if you have one)]
-
-    Email: [Your Email Address]
 ## Hi there 👋
+
+<!-- 💀 Akash Jatikart | Cinematic GitHub Profile README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=🕵️‍♂️+Akash+Jatikart;MCA+Student+|+AI+Enthusiast+|+Data+Detective;Exploring+the+logic+behind+every+pattern...">
+</h1>
+
+<p align="center">
+  <em>“In the shadows of data and design, I build stories that think.”</em>
+</p>
+
+---
+
+### 🕶️ About Me
+
+> 🎓 MCA Student  
+> 🧠 Aspiring **Data Scientist** & **AI Explorer**  
+> ⚡ Passionate about **creative intelligence**, **bold visuals**, and **logic-driven systems**
+
+🧩 Blending art, data, and design — I turn abstract ideas into intelligent, story-driven experiences.  
+Currently decoding the secrets of **AI**, **Full Stack Development**, and **Machine Learning**.
+
+---
+
+### 🧰 Arsenal
+
+#### ⚙️ Languages & Frameworks
+`Python` `Java` `JavaScript` `HTML` `CSS` `SQL`
+
+#### 🧠 Frameworks & Tech Stack
+`Flask` `FastAPI` `React` `Tailwind CSS` `SQLite` `MongoDB`
+
+#### 🔍 Data Science Tools
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+
+---
+
+### 🎯 Current Missions
+
+| 🧩 Project | 🎬 Description |
+|-------------|----------------|
+| **Legacy Planner** 🧭 | AI-powered productivity system that predicts your next logical step |
+| **Smart Asset Dashboard: Chessboard of Wealth** ♟️ | Strategic finance tracker where every move is a chess piece |
+| **Farmer Crop Suggestion System** 🌾 | FastAPI + React system suggesting profitable crops using data |
+| **Fashion Fusion** 🧥 | Intelligent clothing platform merging AI with style |
+
+---
+
+### 📊 GitHub Intel
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4ak45h&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ak45h&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
+</p>
+
+---
+
+### ⚡ System Status
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ak45h&bg_color=0d1117&color=38C2FF&line=38C2FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### 🕸️ Connect With The Detective
+
+<p align="center">
+  <a href="https://github.com/4ak45h" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-4ak45h-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/akashjatikart" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Jatikart-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:akashjatikart@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akashjatikart%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=The+code+runs...;but+the+mystery+remains.">
+</p>
+
 
 <!--
 **4ak45h/4ak45h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
