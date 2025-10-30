@@ -1,66 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Akash | GitHub Projects</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    /* Animated gradient background */
-    body {
-      background: linear-gradient(120deg, #0d0d0d, #1a1a1a, #0f2027, #203a43, #2c5364);
-      background-size: 400% 400%;
-      animation: gradientMove 12s ease infinite;
-    }
-    @keyframes gradientMove {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
+# 👋 Hey, I'm Akash Jatikart
 
-    /* Frosted glass effect */
-    .glass-card {
-      background: rgba(255, 255, 255, 0.08);
-      backdrop-filter: blur(15px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      border-radius: 1.5rem;
-      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
-      transition: all 0.3s ease-in-out;
-    }
-    .glass-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
-    }
-  </style>
-</head>
+🎓 MCA Student | 💻 Full Stack & Data Science Enthusiast  
+🚀 Exploring AI, Agentic Systems, and Smart Dashboards  
 
-<body class="flex items-center justify-center min-h-screen text-gray-100 font-sans">
-  <div class="glass-card p-10 text-center max-w-md">
-    <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" 
-         alt="Akash" 
-         class="w-24 h-24 mx-auto rounded-full border-2 border-gray-400 shadow-md mb-6">
-    
-    <h1 class="text-3xl font-bold mb-2 tracking-wide">Akash Jatikart</h1>
-    <p class="text-gray-400 mb-4 text-sm uppercase tracking-widest">AI | Data Science | Full Stack Enthusiast</p>
+> “I turn ideas into intelligent systems — where design meets data.”
 
-    <div class="space-y-2">
-      <a href="https://github.com/4ak45h" target="_blank" 
-         class="block bg-[#161b22] hover:bg-[#0d1117] text-white py-3 rounded-lg shadow-md hover:shadow-xl transition">
-        Visit My GitHub Profile
-      </a>
-      <a href="https://github.com/4ak45h/smart_finance_dashboard" target="_blank" 
-         class="block border border-gray-600 hover:border-gray-300 py-3 rounded-lg text-gray-300 hover:text-white transition">
-        Smart Asset & Finance Dashboard
-      </a>
-      <a href="https://github.com/4ak45h/fashion-fusion" target="_blank" 
-         class="block border border-gray-600 hover:border-gray-300 py-3 rounded-lg text-gray-300 hover:text-white transition">
-        Fashion Fusion Project
-      </a>
-    </div>
+---
 
-    <div class="mt-6 text-sm text-gray-500">
-      <p>“Code. Create. Contribute.”</p>
-    </div>
-  </div>
-</body>
-</html>
+### 🧠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+
+---
+
+### 🏗️ Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎯 [Smart Asset & Finance Dashboard](https://github.com/4ak45h/smart_finance_dashboard) | A chess-themed finance tracker blending data visualization and game aesthetics. | Flask, Tailwind, JS |
+| 🌾 [Farmer Crop Suggestion System](https://github.com/4ak45h/farmer-crop-suggestion) | AI-powered system recommending profitable crops based on soil, weather, and market data. | FastAPI, React, MongoDB |
+| 🧠 [Legacy Planner](https://github.com/4ak45h/legacy-planner) | AI-based productivity and memory system for tracking ideas, goals, and future plans intelligently. | Flask, OpenAI API, Python |
+| 👗 [Fashion Fusion](https://github.com/4ak45h/fashion-fusion) | Internship project — an e-commerce platform for fashion discovery and digital styling. | HTML, CSS, JS |
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4ak45h&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ak45h&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/4ak45h" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Current Focus
+- Building AI-powered dashboards that think and adapt.  
+- Exploring agentic systems and data automation.  
+- Designing human-like intelligence in simple, elegant interfaces.  
