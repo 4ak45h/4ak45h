@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Akash+Jatikart+👋;MCA+Student+|+FullStack+%26+AIEnthusiast;I+build+intelligent+systems;that+blend+data+%26+design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Akash+Jatikart+👋;MCA+Student+|+Full+Stack+%26+AI+Enthusiast;I+build+intelligent+systems;that+blend+data+%26+design.)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,9 +36,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| 🧠 [Legacy Planner](https://github.com/4ak45h/legacy-planner) | Intelligent personal planner for **goal tracking & memory recall**, powered by AI. | Flask, OpenAI API |
 | 🎯 [Smart Asset & Finance Dashboard](https://github.com/4ak45h/smart_finance_dashboard) | A chess-themed finance tracker blending **game design & financial analytics**. | Flask, Tailwind, JS |
 | 🌾 [Farmer Crop Suggestion System](https://github.com/4ak45h/farmer-crop-suggestion) | AI-driven platform that suggests profitable crops using **weather, soil & market data**. | FastAPI, React, MongoDB |
-| 🧠 [Legacy Planner](https://github.com/4ak45h/legacy-planner) | Intelligent personal planner for **goal tracking & memory recall**, powered by AI. | Flask, OpenAI API |
 | 👗 [Fashion Fusion](https://github.com/4ak45h/fashion-fusion) | Internship project — sleek **e-commerce experience** for clothing & style. | HTML, CSS, JS |
 
 ---
